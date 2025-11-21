@@ -14,7 +14,7 @@ This repository contains two simple, well-documented Jupyter notebooks that scra
 
 ---
 
-The notebooks use only `requests` and `BeautifulSoup` for scraping and `pandas` for cleaning/exporting — no Selenium or paid APIs.
+The notebooks use only `requests` and `BeautifulSoup` for scraping and `pandas` for cleaning/exporting.
 
 ## 🗃️ Output Files
 Cleaned datasets are saved in the `/data` folder:
